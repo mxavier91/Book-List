@@ -12,3 +12,12 @@
 .error {
   background: red;
 }
+
+tbody {
+  font-size: 2rem;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
